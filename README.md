@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshayMandhan17
-- 👀 I’m interested in blockchain and AI
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on programming problems
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me *mail: mandhanakshay49@gmail.com
 
 <!---
