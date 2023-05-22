@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshayMandhan17
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter projects
+- 🌱 I’m currently trying to master web development
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me *mail: mandhanakshay49@gmail.com
 
 <!---
